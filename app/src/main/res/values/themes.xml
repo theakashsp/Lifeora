@@ -9,8 +9,6 @@
 
     <!-- Fullscreen Alarm Ringing Theme -->
     <style name="Theme.LifeRise.AlarmRinging" parent="android:Theme.Material.NoActionBar.Fullscreen">
-        <item name="android:windowShowWhenLocked">true</item>
-        <item name="android:windowTurnScreenOn">true</item>
         <item name="android:statusBarColor">@color/primary_indigo_dark</item>
         <item name="android:navigationBarColor">@color/primary_indigo_dark</item>
     </style>
