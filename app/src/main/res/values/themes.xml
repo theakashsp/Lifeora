@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Theme -->
+    <style name="Theme.LifeRise" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/primary_indigo_dark</item>
+        <item name="android:navigationBarColor">@color/surface_light</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+
+    <!-- Fullscreen Alarm Ringing Theme -->
+    <style name="Theme.LifeRise.AlarmRinging" parent="android:Theme.Material.NoActionBar.Fullscreen">
+        <item name="android:windowShowWhenLocked">true</item>
+        <item name="android:windowTurnScreenOn">true</item>
+        <item name="android:statusBarColor">@color/primary_indigo_dark</item>
+        <item name="android:navigationBarColor">@color/primary_indigo_dark</item>
+    </style>
+</resources>

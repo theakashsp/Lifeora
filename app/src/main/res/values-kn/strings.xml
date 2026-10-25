@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">ಲೈಫ್‌ರೈಸ್ (LifeRise)</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">ಮುಖಪುಟ</string>
+    <string name="nav_diary">ದಿನಚರಿ</string>
+    <string name="nav_alarm">ಅಲಾರಾಂ</string>
+    <string name="nav_community">ಸಮುದಾಯ</string>
+    <string name="nav_progress">ಪ್ರಗತಿ</string>
+
+    <!-- General -->
+    <string name="action_save">ಉಳಿಸಿ</string>
+    <string name="action_cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="action_delete">ಅಳಿಸಿ</string>
+    <string name="action_edit">ತಿದ್ದುಪಡಿ</string>
+    <string name="action_retry">ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="action_dismiss">ಮುಕ್ತಾಯ</string>
+    <string name="action_snooze">ಸ್ನೂಜ್</string>
+    <string name="action_submit">ಸಲ್ಲಿಸಿ</string>
+    <string name="action_share">ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="action_confirm">ದೃಢೀಕರಿಸಿ</string>
+
+    <!-- Diary -->
+    <string name="diary_title">ದೈನಂದಿನ ದಿನಚರಿ</string>
+    <string name="diary_new_entry">ಹೊಸ ದಾಖಲೆ</string>
+    <string name="diary_edit_entry">ದಾಖಲೆ ತಿದ್ದುಪಡಿ</string>
+    <string name="diary_empty_title">ಇನ್ನೂ ಯಾವುದೇ ದಿನಚರಿ ದಾಖಲೆಗಳಿಲ್ಲ</string>
+    <string name="diary_empty_desc">ಇಂದಿನ ನಿಮ್ಮ ಆಲೋಚನೆಗಳು, ಅನುಭವಗಳನ್ನು ಬರೆಯಿರಿ. ನಿಮ್ಮ ವಿವರಗಳು ಸುರಕ್ಷಿತವಾಗಿ ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿರುತ್ತವೆ.</string>
+    <string name="diary_search_hint">ದಿನಚರಿ ಹುಡುಕಿ…</string>
+    <string name="diary_private_badge">ಖಾಸಗಿ &amp; ಆಫ್‌ಲೈನ್</string>
+    <string name="diary_confirm_delete">ಈ ದಿನಚರಿಯನ್ನು ಅಳಿಸಲು ನೀವು ಖಚಿತವಾಗಿದ್ದೀರಾ? ಇದನ್ನು ರದ್ದುಗೊಳಿಸಲಾಗುವುದಿಲ್ಲ.</string>
+
+    <!-- AI Insights -->
+    <string name="ai_insights_title">AI ಬೆಳವಣಿಗೆಯ ಒಳನೋಟಗಳು</string>
+    <string name="ai_analyze_button">ದಾಖಲೆಯನ್ನು ವಿಶ್ಲೇಷಿಸಿ</string>
+    <string name="ai_analyzing">ವಿಶ್ಲೇಷಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="ai_demo_notice">ಡೆಮೊ ವಿಶ್ಲೇಷಣೆ ವಿಧಾನ: ಸ್ಥಳೀಯ ನಿಯಮ ಆಧಾರಿತ ವಿಶ್ಲೇಷಣೆ. ಯಾವುದೇ ಡೇಟಾವನ್ನು ಸರ್ವರ್‌ಗೆ ಕಳುಹಿಸಲಾಗುವುದಿಲ್ಲ.</string>
+    <string name="ai_summary_title">ದೈನಂದಿನ ಸಾರಾಂಶ</string>
+    <string name="ai_achievements_title">ಪ್ರಮುಖ ಸಾಧನೆಗಳು</string>
+    <string name="ai_difficulties_title">ಸವಾಲುಗಳು ಮತ್ತು ತೊಂದರೆಗಳು</string>
+    <string name="ai_lessons_title">ಕಲಿತ ಪಾಠಗಳು</string>
+    <string name="ai_improvements_title">ಸುಧಾರಣಾ ಸಲಹೆಗಳು</string>
+    <string name="ai_tomorrow_action">ನಾಳಿನ ಪ್ರಮುಖ ಕ್ರಿಯೆ</string>
+
+    <!-- Tasks -->
+    <string name="tasks_title">ಕಾರ್ಯಗಳು &amp; ಗುರಿಗಳು</string>
+    <string name="tasks_new">ಹೊಸ ಕಾರ್ಯ</string>
+    <string name="tasks_today">ಇಂದಿನ ಕಾರ್ಯಗಳು</string>
+    <string name="tasks_overdue">ಬಾಕಿ ಉಳಿದ ಕಾರ್ಯಗಳು</string>
+    <string name="tasks_completed">ಪೂರ್ಣಗೊಂಡ ಕಾರ್ಯಗಳು</string>
+
+    <!-- Challenge Alarm -->
+    <string name="alarm_title">ಸವಾಲಿನ ಅಲಾರಾಂ</string>
+    <string name="alarm_new">ಅಲಾರಾಂ ರಚಿಸಿ</string>
+    <string name="alarm_wake_up">ಎದ್ದೇಳಿ! ಹೊಸ ದಿನ ಆರಂಭಿಸಿ!</string>
+    <string name="alarm_solve_to_dismiss">ಅಲಾರಾಂ ನಿಲ್ಲಿಸಲು ಪ್ರಶ್ನೆಗೆ ಸರಿಯಾದ ಉತ್ತರ ನೀಡಿ.</string>
+    <string name="alarm_emergency_dismiss">ತುರ್ತು ನಿಲುಗಡೆ</string>
+    <string name="alarm_emergency_warning">ತುರ್ತು ನಿಲುಗಡೆಯು ಧ್ವನಿಯನ್ನು ತಕ್ಷಣ ನಿಲ್ಲಿಸುತ್ತದೆ.</string>
+    <string name="alarm_category_math">ಗಣಿತ ಸವಾಲು</string>
+    <string name="alarm_category_kannada">ಕನ್ನಡ ಒಗಟುಗಳು &amp; ಗಾದೆಗಳು</string>
+    <string name="alarm_category_gk">ಸಾಮಾನ್ಯ ಜ್ಞಾನ</string>
+    <string name="alarm_category_mixed">ಮಿಶ್ರ ಪ್ರಶ್ನೆಗಳು</string>
+
+    <!-- Daily Missions -->
+    <string name="missions_title">ದೈನಂದಿನ ಧ್ಯೇಯಗಳು</string>
+    <string name="missions_subtitle">ಇಂದು ಪೂರ್ಣಗೊಳಿಸಲು ೩ ಪ್ರಮುಖ ಹೆಜ್ಜೆಗಳು</string>
+
+    <!-- Progress -->
+    <string name="progress_title">ಪ್ರಗತಿ ವಿವರ</string>
+    <string name="progress_today_score">ಇಂದಿನ ಅಂಕಗಳು</string>
+    <string name="progress_how_calculated">ಇದನ್ನು ಹೇಗೆ ಲೆಕ್ಕಹಾಕಲಾಗುತ್ತದೆ?</string>
+    <string name="progress_7day_trend">೭ ದಿನಗಳ ಪ್ರಗತಿ</string>
+
+    <!-- Community -->
+    <string name="community_title">ಲೈಫ್‌ರೈಸ್ ಸಮುದಾಯ</string>
+    <string name="community_create_post">ಹೊಸ ಸಂದೇಶ ಬರೆಯಿರಿ…</string>
+    <string name="community_demo_badge">ಡೆಮೊ ಸಮುದಾಯ ವಿಧಾನ</string>
+
+    <!-- Settings -->
+    <string name="settings_title">ಸೆಟ್ಟಿಂಗ್ಸ್ &amp; ಗೌಪ್ಯತೆ</string>
+    <string name="settings_theme">ಥೀಮ್</string>
+    <string name="settings_language">ಭಾಷೆ</string>
+    <string name="settings_diary_lock">ದಿನಚರಿ ಲಾಕ್</string>
+    <string name="settings_ai_consent">AI ವಿಶ್ಲೇಷಣೆ ಅನುಮತಿ</string>
+    <string name="settings_export_data">ಡೇಟಾ ರಫ್ತು ಮಾಡಿ</string>
+    <string name="settings_clear_data">ಎಲ್ಲಾ ಡೇಟಾ ಅಳಿಸಿ</string>
+</resources>

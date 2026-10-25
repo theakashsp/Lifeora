@@ -1,0 +1,16 @@
+# ==============================================================================
+# LifeRise Local Configuration Template
+# Rename this file to local.properties or add these properties to your existing local.properties.
+# NEVER commit your actual local.properties to version control.
+# ==============================================================================
+
+# Android SDK Path (Set by Android Studio or manually)
+# sdk.dir=C:\\Users\\YOUR_USERNAME\\AppData\\Local\\Android\\Sdk
+
+# Supabase Backend Configuration (Optional - Demo mode works offline by default)
+# Get these from your Supabase project dashboard -> Settings -> API
+SUPABASE_URL=https://your-project-id.supabase.co
+SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+
+# Optional AI Gateway URL (Point to your secure backend endpoint, never client direct AI secret)
+AI_ENDPOINT_URL=https://api.yourbackend.com/v1/analyze-diary

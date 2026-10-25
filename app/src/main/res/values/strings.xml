@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">LifeRise</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_diary">Diary</string>
+    <string name="nav_alarm">Alarm</string>
+    <string name="nav_community">Community</string>
+    <string name="nav_progress">Progress</string>
+
+    <!-- General -->
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_dismiss">Dismiss</string>
+    <string name="action_snooze">Snooze</string>
+    <string name="action_submit">Submit</string>
+    <string name="action_share">Share</string>
+    <string name="action_confirm">Confirm</string>
+
+    <!-- Diary -->
+    <string name="diary_title">Daily Diary</string>
+    <string name="diary_new_entry">New Entry</string>
+    <string name="diary_edit_entry">Edit Entry</string>
+    <string name="diary_empty_title">No Diary Entries Yet</string>
+    <string name="diary_empty_desc">Capture your thoughts, reflections, and moments today. Your entries stay private on your device.</string>
+    <string name="diary_search_hint">Search diary entries…</string>
+    <string name="diary_private_badge">Private &amp; Offline</string>
+    <string name="diary_confirm_delete">Are you sure you want to delete this diary entry? This cannot be undone.</string>
+
+    <!-- AI Insights -->
+    <string name="ai_insights_title">AI Growth Insights</string>
+    <string name="ai_analyze_button">Analyze Entry</string>
+    <string name="ai_analyzing">Analyzing reflection…</string>
+    <string name="ai_demo_notice">Demo Analysis Mode: Local rule-based extraction. No data sent to external servers.</string>
+    <string name="ai_summary_title">Daily Summary</string>
+    <string name="ai_achievements_title">Key Achievements</string>
+    <string name="ai_difficulties_title">Challenges &amp; Hurdles</string>
+    <string name="ai_lessons_title">Lessons Learned</string>
+    <string name="ai_improvements_title">Suggested Improvements</string>
+    <string name="ai_tomorrow_action">Action for Tomorrow</string>
+
+    <!-- Tasks -->
+    <string name="tasks_title">Tasks &amp; Focus</string>
+    <string name="tasks_new">New Task</string>
+    <string name="tasks_today">Today\'s Tasks</string>
+    <string name="tasks_overdue">Overdue Tasks</string>
+    <string name="tasks_completed">Completed Tasks</string>
+
+    <!-- Challenge Alarm -->
+    <string name="alarm_title">Challenge Alarms</string>
+    <string name="alarm_new">Create Alarm</string>
+    <string name="alarm_wake_up">Wake Up &amp; Rise!</string>
+    <string name="alarm_solve_to_dismiss">Solve the challenge to turn off the alarm.</string>
+    <string name="alarm_emergency_dismiss">Emergency Dismiss</string>
+    <string name="alarm_emergency_warning">Emergency stop will halt the sound immediately.</string>
+    <string name="alarm_category_math">Mathematics</string>
+    <string name="alarm_category_kannada">Kannada Riddles &amp; Proverbs</string>
+    <string name="alarm_category_gk">General Knowledge</string>
+    <string name="alarm_category_mixed">Mixed Challenge</string>
+
+    <!-- Daily Missions -->
+    <string name="missions_title">Daily Missions</string>
+    <string name="missions_subtitle">3 micro-commitments to conquer today</string>
+
+    <!-- Progress -->
+    <string name="progress_title">Progress Dashboard</string>
+    <string name="progress_today_score">Today\'s Score</string>
+    <string name="progress_how_calculated">How is this calculated?</string>
+    <string name="progress_7day_trend">7-Day Trend</string>
+
+    <!-- Community -->
+    <string name="community_title">LifeRise Community</string>
+    <string name="community_create_post">Share an update…</string>
+    <string name="community_demo_badge">Demo Community Mode</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings &amp; Privacy</string>
+    <string name="settings_theme">App Theme</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_diary_lock">Diary Security</string>
+    <string name="settings_ai_consent">AI Processing Consent</string>
+    <string name="settings_export_data">Export Local Data</string>
+    <string name="settings_clear_data">Erase All Data</string>
+</resources>

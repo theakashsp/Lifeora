@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Deep Indigo Primary -->
+    <color name="primary_indigo">#283593</color>
+    <color name="primary_indigo_dark">#1A237E</color>
+    <color name="primary_indigo_light">#5C6BC0</color>
+
+    <!-- Teal Secondary -->
+    <color name="secondary_teal">#00897B</color>
+    <color name="secondary_teal_dark">#004D40</color>
+    <color name="secondary_teal_light">#4DB6AC</color>
+
+    <!-- Semantic Colors -->
+    <color name="positive_green">#2E7D32</color>
+    <color name="warning_amber">#F57C00</color>
+    <color name="error_red">#C62828</color>
+
+    <!-- Surfaces -->
+    <color name="background_light">#F8F9FA</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="background_dark">#121212</color>
+    <color name="surface_dark">#1E1E24</color>
+</resources>

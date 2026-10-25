@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <include domain="database" path="liferise_database.db" />
+    <include domain="sharedpref" path="liferise_prefs.xml" />
+    <!-- Exclude sensitive keys -->
+    <exclude domain="sharedpref" path="liferise_secure_prefs.xml" />
+</full-backup-content>
